@@ -1,0 +1,4 @@
+/* Empty or minimal styles to not conflict with Tailwind */
+#root {
+  width: 100%;
+}
